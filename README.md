@@ -1,2 +1,5 @@
-# Sample_Superstore_Dashboard_using_Power_BI
-An interactive Power BI dashboard built on the Sample Superstore dataset to analyze sales, profit, customers, products, and regional performance. The project highlights data cleaning, DAX measures, and dynamic visualizations for business insights and sales forecasting.
+Super Store Analytics & Sales Forecasting Dashboard 
+
+Project Overview
+
+This project focuses on analyzing Super Store sales data using Power BI to gain insights into sales performance, profitability, customer behavior, and regional trends. The report also includes sales forecasting to support data-driven decision-making.
