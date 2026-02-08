@@ -1,4 +1,4 @@
-##### Super Store Analytics & Sales Forecasting Dashboard
+### Super Store Analytics & Sales Forecasting Dashboard
 
 ## **Project Overview**
 
