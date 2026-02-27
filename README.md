@@ -4,6 +4,10 @@
 
 This project focuses on analyzing Super Store sales data using Power BI to gain insights into sales performance, profitability, customer behavior, and regional trends. The report also includes sales forecasting to support data-driven decision-making.
 
+## **Dashboard Preview**
+
+![Superstore Dashboard](Report_pages/sample_superstore_2.png)
+
 ## **Dataset Information**
 
 The dataset used in this project is a Super Store sales dataset containing information about orders, customers, products, regions, sales, profit, and quantity.
