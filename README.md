@@ -10,7 +10,7 @@ This project focuses on analyzing Super Store sales data using Power BI to gain 
 
 ## **Dataset Information**
 
-The dataset used in this project is a Super Store sales dataset containing information about orders, customers, products, regions, sales, profit, and quantity.
+This project uses the Super Store Sales dataset in CSV format, containing transactional retail data such as orders, customers, products, regions, sales, profit, and quantity. The dataset supports sales analysis, performance tracking, and forecasting.
 
 ## **Tools & Technologies Used**
 
